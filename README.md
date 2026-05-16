@@ -1,10 +1,11 @@
+                                                                        Search Task
 1-اول حاجة ال class بيكون لية مرجع Reference Type وبيتخزن في ال Heap يقدر يعمل:
 
-Inheritance
-Encapsulation
-Polymorphism
-Constructors
-Methods
+Inheritance-
+Encapsulation-
+Polymorphism-
+Constructors-
+Methods-
 
 2- تاني حاجة ال Struct  دا نفس ال class بس ل حاجات اصغر وبرضو اسرع شوية لكن value type وبيتخزن في stack وبيعمل copy للقيم
 
